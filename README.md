@@ -7,5 +7,7 @@ Just a little example of how fragment lifecycle works during routing.
 
 ### Summary
 
-* [Rename](https://gist.github.com/Alesh17/9c7dbbf0e894f601ac7a7af458ac7402) project 🤘
-*
+* Routing next by replace(): First (Pause/Stop/DestroyView) and Second (Attach/Create/CreateView/ViewCreated/Start/Resume).
+* Routing next by add(): First (no reaction) and Second (Attach/Create/CreateView/ViewCreated/Start/Resume).
+* First hide(): First (no reaction) and Second (no reaction).
+* AlertDialog and DialogFragment called on First: no reaction at all.
