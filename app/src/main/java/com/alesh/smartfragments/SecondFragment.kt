@@ -1,4 +1,4 @@
-package com.example.smartfragments
+package com.alesh.smartfragments
 
 import android.content.Context
 import android.os.Bundle
@@ -8,7 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.smartfragments.databinding.FragmentSecondBinding
+import com.alesh.smartfragments.databinding.FragmentSecondBinding
 
 class SecondFragment : Fragment() {
 

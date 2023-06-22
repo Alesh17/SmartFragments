@@ -8,7 +8,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fullscreenContainer"
-        android:name="com.example.smartfragments.FirstFragment"
+        android:name="com.alesh.smartfragments.FirstFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -1,4 +1,4 @@
-package com.example.smartfragments
+package com.alesh.smartfragments
 
 import android.content.Context
 import android.os.Bundle
@@ -9,7 +9,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.commit
-import com.example.smartfragments.databinding.FragmentFirstBinding
+import com.alesh.smartfragments.databinding.FragmentFirstBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 

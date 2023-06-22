@@ -1,9 +1,9 @@
-package com.example.smartfragments
+package com.alesh.smartfragments
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
-import com.example.smartfragments.databinding.ActivityMainBinding
+import com.alesh.smartfragments.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
